@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Legends Glass Inc",
+    "phone": "+16618646385",
+    "category": "window and door installer",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Windows & Doors Built to Last",
+      "heroSubline": "Legends Glass Inc. delivers expert window and door installation in Bakersfield. We handle tough jobs with precision and care, ensuring lasting quality.",
+      "aboutTitle": "Bakersfield's Trusted Window & Door Experts",
+      "aboutText": [
+        "Legends Glass Inc. started with a simple goal: to provide Bakersfield with reliable and durable window and door solutions. We're a family-owned business built on years of experience tackling Kern County's unique climate challenges.",
+        "We believe in doing the job right the first time. Our team is committed to using quality materials and proven techniques, ensuring your windows and doors withstand the harsh Bakersfield sun and occasional dust storms.",
+        "We're proud to be a part of the Bakersfield community. We support local initiatives and strive to provide exceptional service to our neighbors. When you choose Legends Glass, you're choosing a company that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precise, professional installation ensures optimal performance and longevity."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable windows and doors designed to withstand Bakersfield's climate."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to on-time project completion and clear communication."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Years of experience serving Bakersfield and surrounding communities."
+        }
+      ],
+      "ctaHeadline": "Upgrade Your Home Today",
+      "ctaSubline": "Get a free quote for window and door installation in Bakersfield."
+    },
+    "services": [
+      {
+        "slug": "window-installation",
+        "name": "Window Installation",
+        "shortDescription": "Expert window installation services for Bakersfield homes and businesses.",
+        "description": "Legends Glass Inc. provides professional window installation services tailored to Bakersfield's climate and housing styles. From older homes in Oleander-Sunset to newer developments in Seven Oaks, we've seen it all. We handle everything from initial measurements and window selection to precise installation and cleanup. Our team understands the importance of proper sealing to combat the summer heat and prevent dust infiltration. We work with a variety of window types, including vinyl, aluminum, and wood, ensuring we can find the perfect fit for your needs and budget. We take pride in our attention to detail and commitment to quality, ensuring your new windows provide lasting comfort and energy efficiency. We also offer window replacement services for all types of windows, including single-pane, double-pane, and energy-efficient windows. We can help you choose the right windows for your home or business, and we'll install them quickly and efficiently.",
+        "process": [
+          "Step 1: Consultation and Measurement",
+          "Step 2: Window Selection and Ordering",
+          "Step 3: Old Window Removal",
+          "Step 4: Professional Installation and Sealing"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Home Value",
+          "Increased Comfort",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "What type of windows are best for Bakersfield's climate?",
+            "answer": "Energy-efficient windows with low-E coatings are ideal for reducing heat gain in the summer and heat loss in the winter. Vinyl windows are a popular choice due to their durability and affordability."
+          },
+          {
+            "question": "How long does window installation take?",
+            "answer": "The duration depends on the number of windows and the complexity of the project. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do you offer a warranty on your window installation services?",
+            "answer": "Yes, we offer a comprehensive warranty on our workmanship and materials, providing you with peace of mind."
+          }
+        ]
+      },
+      {
+        "slug": "door-installation",
+        "name": "Door Installation",
+        "shortDescription": "Secure and stylish door installation services for your Bakersfield property.",
+        "description": "Legends Glass Inc. specializes in professional door installation services for homes and businesses throughout Bakersfield. We understand that doors are more than just entryways; they're crucial for security, insulation, and curb appeal. Whether you're looking to upgrade your front door, install a new patio door, or replace an interior door, we've got you covered. We work with a wide range of door materials, including wood, fiberglass, and steel, ensuring we can match your style and budget. Our experienced installers pay close attention to detail, ensuring proper alignment, sealing, and weatherproofing to withstand Bakersfield's harsh conditions. We also handle the installation of door hardware, including locks, handles, and security systems, providing you with a complete and secure solution. From entry doors to sliding glass doors, Legends Glass Inc. ensures your door installation provides lasting beauty and functionality.",
+        "process": [
+          "Step 1: Consultation and Door Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Old Door Removal and Frame Preparation",
+          "Step 4: Professional Installation and Hardware Fitting"
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Energy Efficiency",
+          "Increased Home Value",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "What type of door is best for security?",
+            "answer": "Steel doors are generally the most secure option, offering superior resistance to forced entry. We can also install reinforced frames and high-security locks for added protection."
+          },
+          {
+            "question": "How do I choose the right door style for my home?",
+            "answer": "We'll guide you through the selection process, considering your architectural style, personal preferences, and budget. We offer a wide range of door styles to complement any home."
+          },
+          {
+            "question": "Do you install sliding glass doors?",
+            "answer": "Yes, we specialize in the installation of sliding glass doors, providing you with seamless access to your patio or backyard."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Fast and reliable window repair services to restore your Bakersfield windows.",
+        "description": "Legends Glass Inc. offers comprehensive window repair services to address a variety of issues, from cracked glass to broken seals. We understand that damaged windows can compromise your home's energy efficiency, security, and appearance. Our skilled technicians are equipped to handle all types of window repairs, including glass replacement, frame repair, and hardware replacement. We use quality materials and proven techniques to restore your windows to their original condition, saving you the cost of a full replacement. Whether you have a broken window in your Oleander-Sunset home or a foggy window in your Seven Oaks office, we're here to help. We offer prompt and reliable service, ensuring your windows are repaired quickly and efficiently. We also offer emergency window repair services for urgent situations.",
+        "process": [
+          "Step 1: Inspection and Damage Assessment",
+          "Step 2: Glass or Component Replacement",
+          "Step 3: Sealing and Weatherproofing",
+          "Step 4: Quality Check and Cleanup"
+        ],
+        "benefits": [
+          "Cost-Effective Solution",
+          "Restored Energy Efficiency",
+          "Enhanced Security",
+          "Improved Appearance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my window needs to be repaired or replaced?",
+            "answer": "If your window has cracked glass, a broken seal, or is difficult to open or close, it may need to be repaired. If the damage is extensive or the window is very old, replacement may be a better option."
+          },
+          {
+            "question": "Can you repair foggy windows?",
+            "answer": "Yes, foggy windows are often caused by a broken seal, which allows moisture to enter between the panes of glass. We can replace the glass unit to restore clarity."
+          },
+          {
+            "question": "Do you offer emergency window repair services?",
+            "answer": "Yes, we offer emergency window repair services for situations that require immediate attention, such as broken windows that pose a security risk."
+          }
+        ]
+      },
+      {
+        "slug": "door-repair",
+        "name": "Door Repair",
+        "shortDescription": "Bakersfield's trusted door repair service, fixing any door type.",
+        "description": "Legends Glass Inc. provides expert door repair services throughout Bakersfield, addressing issues from squeaky hinges to damaged frames. We understand that a malfunctioning door can be a major inconvenience and security concern. Our experienced technicians are equipped to handle all types of door repairs, including hinge replacement, lock repair, frame repair, and weather stripping replacement. We use quality materials and proven techniques to restore your doors to their proper function, ensuring smooth operation and enhanced security. Whether you have a sticking door in your Riviera/Westchester home or a damaged frame in your commercial building, we're here to help. We offer prompt and reliable service, minimizing disruption to your daily routine. We also offer emergency door repair services for urgent situations, such as broken locks or damaged frames.",
+        "process": [
+          "Step 1: Inspection and Problem Diagnosis",
+          "Step 2: Component Repair or Replacement",
+          "Step 3: Alignment and Adjustment",
+          "Step 4: Security Check and Cleanup"
+        ],
+        "benefits": [
+          "Improved Security",
+          "Smooth Door Operation",
+          "Extended Door Lifespan",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "Why is my door sticking?",
+            "answer": "Sticking doors can be caused by a variety of factors, including humidity, warped frames, or loose hinges. We can diagnose the problem and provide the necessary repairs."
+          },
+          {
+            "question": "Can you repair a door frame?",
+            "answer": "Yes, we can repair damaged door frames, including rot, cracks, and impact damage. We use quality materials and techniques to restore the frame to its original strength and appearance."
+          },
+          {
+            "question": "Do you offer emergency door repair services?",
+            "answer": "Yes, we offer emergency door repair services for situations that require immediate attention, such as broken locks or damaged frames that compromise security."
+          }
+        ]
+      },
+      {
+        "slug": "patio-doors",
+        "name": "Patio Door Installation",
+        "shortDescription": "Enhance your outdoor living with expert patio door installation in Bakersfield.",
+        "description": "Legends Glass Inc. specializes in the installation of patio doors that seamlessly blend indoor and outdoor living spaces in Bakersfield homes. We understand the importance of a well-installed patio door for energy efficiency, security, and aesthetic appeal. We offer a wide variety of patio door styles, including sliding glass doors, French doors, and bi-fold doors, ensuring we can find the perfect fit for your needs and preferences. Our experienced installers pay close attention to detail, ensuring proper alignment, sealing, and weatherproofing to withstand Bakersfield's climate. We also handle the installation of door hardware, including locks, handles, and screens, providing you with a complete and functional solution. From expanding your living space to creating a seamless transition to your backyard oasis, Legends Glass Inc. ensures your patio door installation provides lasting beauty and functionality.",
+        "process": [
+          "Step 1: Design Consultation and Door Selection",
+          "Step 2: Precise Measurements and Ordering",
+          "Step 3: Old Door Removal and Frame Preparation",
+          "Step 4: Professional Installation and Hardware Fitting"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Living",
+          "Improved Energy Efficiency",
+          "Increased Home Value",
+          "Enhanced Natural Light"
+        ],
+        "faq": [
+          {
+            "question": "What type of patio door is best for energy efficiency?",
+            "answer": "Sliding glass doors with low-E coatings and insulated frames are a popular choice for energy efficiency. French doors with insulated glass can also provide good energy performance."
+          },
+          {
+            "question": "How do I choose the right patio door style for my home?",
+            "answer": "We'll guide you through the selection process, considering your architectural style, personal preferences, and budget. We offer a wide range of patio door styles to complement any home."
+          },
+          {
+            "question": "Do you install pet doors in patio doors?",
+            "answer": "Yes, we can install pet doors in patio doors, providing your furry friends with easy access to the outdoors."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-windows",
+        "name": "Commercial Window Services",
+        "shortDescription": "Reliable window solutions for Bakersfield businesses.",
+        "description": "Legends Glass Inc. provides comprehensive commercial window services for businesses throughout Bakersfield. We understand the importance of quality windows for energy efficiency, security, and aesthetics in a commercial setting. Our experienced team handles everything from window installation and repair to replacement and maintenance. We work with a variety of window types, including storefront windows, office windows, and industrial windows, ensuring we can meet the specific needs of your business. We offer prompt and reliable service, minimizing disruption to your operations. We also offer emergency window repair services for urgent situations, such as broken windows that pose a security risk. Whether you're looking to upgrade your windows for improved energy efficiency or repair damaged windows to maintain a professional appearance, Legends Glass Inc. is here to help.",
+        "process": [
+          "Step 1: Site Assessment and Consultation",
+          "Step 2: Window Selection and Ordering",
+          "Step 3: Old Window Removal and Frame Preparation",
+          "Step 4: Professional Installation and Sealing"
+        ],
+        "benefits": [
+          "Improved Energy Efficiency",
+          "Enhanced Security",
+          "Professional Appearance",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of windows are best for commercial buildings?",
+            "answer": "Energy-efficient windows with low-E coatings and insulated frames are ideal for reducing energy costs in commercial buildings. Aluminum windows are a popular choice due to their durability and affordability."
+          },
+          {
+            "question": "Do you offer window tinting services?",
+            "answer": "Yes, we offer window tinting services to reduce glare and heat gain in commercial buildings."
+          },
+          {
+            "question": "Do you offer emergency window repair services for businesses?",
+            "answer": "Yes, we offer emergency window repair services for businesses, ensuring that broken windows are quickly repaired to maintain security and prevent further damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc is proud to offer window and door installation services to the residents and businesses of Bakersfield, California. As a leading provider in the region, we understand the unique needs of our community, from energy efficiency in the hot summers to security and aesthetic appeal. Our experienced team is committed to delivering top-quality workmanship and exceptional customer service in every project we undertake.\n\nWe offer a wide range of window and door options, including energy-efficient models, custom designs, and durable materials to withstand the Bakersfield climate. Whether you're looking to upgrade your home's appearance, improve energy efficiency, or enhance security, Legends Glass Inc has the perfect solution for you. We are dedicated to providing Bakersfield with reliable and professional window and door services.",
+        "localContext": "Bakersfield, a major city in California's Central Valley, is known for its agricultural industry and country music heritage. We understand the specific needs and preferences of Bakersfield homeowners.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc extends its expert window and door installation services to the community of Oildale, CA. We recognize the importance of quality and durability in this area, offering solutions tailored to withstand the local environment and enhance the value of your property. Our commitment to excellence ensures that every installation is performed with precision and care.\n\nFrom energy-efficient windows to secure and stylish doors, we provide a comprehensive range of options to meet the diverse needs of Oildale residents. We are dedicated to providing Oildale with reliable and professional window and door services, ensuring customer satisfaction.",
+        "localContext": "Oildale is a community with a strong industrial history and a close-knit feel, just north of Bakersfield. We appreciate the historical context and the desire for lasting quality in Oildale.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc is pleased to serve the growing community of Rosedale, CA, with our professional window and door installation services. We understand the importance of energy efficiency and modern design in this area, offering a wide selection of options to enhance your home's comfort and curb appeal. Our experienced team is dedicated to providing top-notch workmanship and exceptional customer service.\n\nWe offer a variety of window and door styles to suit any home, from traditional to contemporary. Whether you're building a new home or renovating an existing one, Legends Glass Inc has the perfect window and door solutions for your Rosedale property. We are dedicated to providing Rosedale with reliable and professional window and door services.",
+        "localContext": "Rosedale is a rapidly developing area northwest of Bakersfield, known for its newer homes and family-friendly atmosphere. We understand the need for modern, energy-efficient solutions in Rosedale.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc is proud to offer window and door installation services to the residents and businesses of Shafter, CA. We understand the importance of reliable and energy-efficient windows and doors in this agricultural community, and we are committed to providing top-quality products and services to meet your needs. Our experienced team is dedicated to delivering exceptional workmanship and customer satisfaction.\n\nWe offer a wide range of window and door options, including energy-efficient models, custom designs, and durable materials to withstand the Shafter climate. Whether you're looking to upgrade your home's appearance, improve energy efficiency, or enhance security, Legends Glass Inc has the perfect solution for you. We are dedicated to providing Shafter with reliable and professional window and door services.",
+        "localContext": "Shafter is a city with a strong agricultural heritage located northwest of Bakersfield. We recognize the need for durable and energy-efficient solutions for homes and businesses in Shafter.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Oildale"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc is pleased to extend its window and door installation services to the community of Wasco, CA. We understand the importance of quality and affordability in this area, offering a range of options to suit every budget and style. Our commitment to excellence ensures that every installation is performed with precision and care.\n\nFrom energy-efficient windows to secure and stylish doors, we provide a comprehensive range of options to meet the diverse needs of Wasco residents. Whether you're looking to upgrade your home or business, Legends Glass Inc has the perfect window and door solutions for you. We are dedicated to providing Wasco with reliable and professional window and door services.",
+        "localContext": "Wasco is a small city in Kern County, known for its agriculture and friendly community. We appreciate the value of quality and affordability in Wasco.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc proudly serves the Tehachapi, CA area with expert window and door installation services. We understand the unique climate challenges and aesthetic preferences of Tehachapi residents, offering tailored solutions to enhance your home's comfort, energy efficiency, and curb appeal. Our commitment to quality and customer satisfaction is unmatched.\n\nWe offer a wide selection of window and door styles, from traditional to modern, to complement any home's architecture. Whether you're building a new home, renovating an existing one, or simply looking to upgrade your windows and doors, Legends Glass Inc is your trusted partner in Tehachapi. We are dedicated to providing Tehachapi with reliable and professional window and door services.",
+        "localContext": "Tehachapi is a mountain community known for its beautiful scenery and unique climate. We understand the importance of durable and energy-efficient windows and doors in Tehachapi.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Lancaster"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc extends its professional window and door installation services to the community of Arvin, CA. We recognize the importance of quality and affordability in this area, offering a range of options to suit every budget and style. Our commitment to excellence ensures that every installation is performed with precision and care.\n\nFrom energy-efficient windows to secure and stylish doors, we provide a comprehensive range of options to meet the diverse needs of Arvin residents. Whether you're looking to upgrade your home or business, Legends Glass Inc has the perfect window and door solutions for you. We are dedicated to providing Arvin with reliable and professional window and door services.",
+        "localContext": "Arvin is an agricultural community located southeast of Bakersfield. We understand the need for durable and affordable solutions for homes and businesses in Arvin.",
+        "nearbyAreas": [
+          "Lamont",
+          "Bakersfield",
+          "Tehachapi"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Legends Glass Inc is pleased to provide window and door installation services to the residents of Lamont, CA. We understand the importance of reliable and affordable solutions in this community, and we are committed to providing top-quality products and services to meet your needs. Our experienced team is dedicated to delivering exceptional workmanship and customer satisfaction.\n\nWe offer a wide range of window and door options, including energy-efficient models, custom designs, and durable materials. Whether you're looking to upgrade your home's appearance, improve energy efficiency, or enhance security, Legends Glass Inc has the perfect solution for you. We are dedicated to providing Lamont with reliable and professional window and door services.",
+        "localContext": "Lamont is a small community located southeast of Bakersfield, known for its agricultural roots. We recognize the need for durable and affordable solutions for homes in Lamont.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Tehachapi"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria Rodriguez",
+        "rating": 5,
+        "service": "Window Installation",
+        "text": "Legends Glass installed new windows in my entire house in Oleander. The team was professional, efficient, and the windows look fantastic. They even cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Door Repair",
+        "text": "My front door was sticking badly. Legends Glass came out and fixed it quickly. The price was fair and the technician was knowledgeable. Great service!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Patio Door Installation",
+        "text": "We had Legends Glass install a new sliding glass door to our patio. It looks amazing and has really opened up our living space. The installation was seamless and the team was friendly and professional.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert Chen",
+        "rating": 5,
+        "service": "Window Repair",
+        "text": "Excellent service! I had a cracked window that needed to be replaced ASAP. Legends Glass responded quickly and had it fixed within a day. Very happy with their work.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Susan Miller",
+        "rating": 4,
+        "service": "Door Installation",
+        "text": "Legends Glass installed a new front door for us. The door itself is beautiful, and the installation was done well. There was a slight delay in scheduling, but overall, we're very satisfied.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Commercial Window Services",
+        "text": "Legends Glass handled a large window replacement project for our office building. They were efficient, professional, and the new windows have made a noticeable difference in energy efficiency. Highly recommend them for commercial projects.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Legends Glass Inc - Bakersfield Windows & Doors",
+        "description": "Expert window and door installation and repair in Bakersfield, CA. Quality materials, reliable service. Free quotes!"
+      },
+      "about": {
+        "title": "About Legends Glass Inc | Bakersfield, CA",
+        "description": "Learn about Legends Glass Inc., Bakersfield's trusted window and door installation experts. Family-owned, quality-focused."
+      },
+      "services": {
+        "title": "Window & Door Services | Legends Glass Inc",
+        "description": "Comprehensive window and door services in Bakersfield. Installation, repair, replacement for homes and businesses."
+      },
+      "contact": {
+        "title": "Contact Legends Glass Inc | Bakersfield, CA",
+        "description": "Contact Legends Glass Inc. for window and door services in Bakersfield. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Legends Glass Inc Reviews | Bakersfield, CA",
+        "description": "Read reviews for Legends Glass Inc. See what our satisfied customers in Bakersfield are saying about our window and door services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Legends Glass Inc",
+        "description": "Legends Glass Inc provides window and door services in Bakersfield and surrounding areas. Check our service area!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-installation": "/images/service-window-installation.webp",
+      "door-installation": "/images/service-door-installation.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "door-repair": "/images/service-door-repair.webp",
+      "patio-doors": "/images/service-patio-doors.webp",
+      "commercial-windows": "/images/service-commercial-windows.webp"
+    },
+    "servicesResponsive": {
+      "window-installation": {
+        "src": "/images/service-window-installation.webp",
+        "srcset": "/images/service-window-installation-400w.webp 400w, /images/service-window-installation-800w.webp 800w, /images/service-window-installation-1200w.webp 1200w, /images/service-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-installation": {
+        "src": "/images/service-door-installation.webp",
+        "srcset": "/images/service-door-installation-400w.webp 400w, /images/service-door-installation-800w.webp 800w, /images/service-door-installation-1200w.webp 1200w, /images/service-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-repair": {
+        "src": "/images/service-door-repair.webp",
+        "srcset": "/images/service-door-repair-400w.webp 400w, /images/service-door-repair-800w.webp 800w, /images/service-door-repair-1200w.webp 1200w, /images/service-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-doors": {
+        "src": "/images/service-patio-doors.webp",
+        "srcset": "/images/service-patio-doors-400w.webp 400w, /images/service-patio-doors-800w.webp 800w, /images/service-patio-doors-1200w.webp 1200w, /images/service-patio-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-windows": {
+        "src": "/images/service-commercial-windows.webp",
+        "srcset": "/images/service-commercial-windows-400w.webp 400w, /images/service-commercial-windows-800w.webp 800w, /images/service-commercial-windows-1200w.webp 1200w, /images/service-commercial-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
